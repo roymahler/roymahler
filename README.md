@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roy Mahler
 - 👀 I’m interested in Deep Learning and Software Development
-- 🌱 I will enlist inn February 2023
+- 🌱 I will enlist in February 2023
 - 📫 How to reach me:
 - email: roymahler1@gmail.com
 - Linkedin: Roy Mahler
